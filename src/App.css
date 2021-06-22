@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+
+.app {
+  max-width: 80%;
+  margin: auto;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  margin: 0;
+  padding-top: 10px;
+  text-decoration: none;
+}
+
+#link {
+  text-decoration: none;
+  color: darkslategrey;
+  font-family: poppins;
+}
